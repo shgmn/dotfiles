@@ -22,6 +22,7 @@ set noswapfile
 set noundofile
 
 "Input
+set backspace=indent,eol,start
 set autoindent
 set shiftwidth=4
 set expandtab
