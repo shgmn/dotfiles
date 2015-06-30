@@ -1,5 +1,5 @@
 "Display
-colorscheme desert
+colorscheme molokai
 set title
 set number
 set ruler
