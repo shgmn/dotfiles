@@ -33,4 +33,3 @@ set fileencodings=iso-2022-jp,cp932,sjis,euc-jp,utf-8
 
 "Clipboard
 set clipboard=unnamed,autoselect
-noremap <C-v>
