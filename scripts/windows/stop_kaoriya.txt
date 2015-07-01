@@ -1,0 +1,1 @@
+gvim.extのあるフォルダで stop_kaoriya.bat を実施すること
